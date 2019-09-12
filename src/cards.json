@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "character":"Dustin Henderson",
+      "name": "Gaten Matarazzo",
+      "image": "../images/StrangerThingsCharacter_01.png",
+      "alias": "Dusty",
+      "occupation": "Student at Hawkins Middle School"
+      
+    },
+    {
+      "id": 2,
+      "character":"Lonnie Byers",
+      "name": "Ross Partridge",
+      "image": "../images/StrangerThingsCharacter_02.png",
+      "alias": "None",
+      "occupation": "Woodworker"
+    },
+    {
+      "id": 3,
+      "character":"Barbara Holland",
+      "name": "Shannon Purser",
+      "image": "../images/StrangerThingsCharacter_03.png",
+      "alias": "Barb",
+      "occupation": "High school student at Hawkins High School"
+    },
+    {
+      "id": 4,
+      "character":"Holly Wheeler",
+      "name": "Anniston and Tinsley Price",
+      "image": "../images/StrangerThingsCharacter_04.png",
+      "alias": "None",
+      "occupation": "None"
+    },
+    {
+      "id": 5,
+      "character":"Martin Brenner",
+      "name": "Matthew Modine",
+      "image": "../images/StrangerThingsCharacter_05.png",
+      "alias": "Papa",
+      "occupation": "Research scientist Director of Hawkins National Laboratory"
+    },
+    {
+      "id": 6,
+      "character":"Nancy Wheeler",
+      "name": "Natalia Dyer",
+      "image": "../images/StrangerThingsCharacter_06.png",
+      "alias": "Nance",
+      "occupation": "Student at Hawkins High School"
+    },
+    {
+      "id": 7,
+      "character":"Connie Frazier",
+      "name": "Catherine Dyer",
+      "image": "../images/StrangerThingsCharacter_07.png",
+      "alias": "None",
+      "occupation": "Special agent"
+    },
+    {
+      "id": 8,
+      "character":"Benny Hommand",
+      "name": "chris Sullivan",
+      "image": "../images/StrangerThingsCharacter_08.png",
+      "alias": "Ben",
+      "occupation": "Restaurant owner and Chef"
+    },
+    {
+      "id": 9,
+      "character":"Karen Wheeler",
+      "name": "Cara Buona",
+      "image": "../images/StrangerThingsCharacter_09.png",
+      "alias": "Mrs. Wheeler",
+      "occupation": "Most likely unemployed"
+    },
+    {
+      "id": 10,
+      "character":"Steve Harrington",
+      "name": "Joe Keery",
+      "image": "../images/StrangerThingsCharacter_10.png",
+      "alias": "King Steve",
+      "occupation": "Student at Hawkins High School"
+    },
+    {
+      "id": 11,
+      "character":"Lucas Sinclair",
+      "name": "Caleb McLaughlin",
+      "image": "../images/StrangerThingsCharacter_11.png",
+      "alias": "Lukey",
+      "occupation": "Student at Hawkins Middle School"
+    },
+    {
+      "id": 12,
+      "character":"Eleven",
+      "name": "Millie Bobby Brown",
+      "image": "../images/StrangerThingsCharacter_12.png",
+      "alias": "El",
+      "occupation": "Lab test subject"
+    },
+    {
+      "id": 13,
+      "character":"Jim Hopper",
+      "name": "David Harbour",
+      "image": "../images/StrangerThingsCharacter_13.png",
+      "alias": "Hop",
+      "occupation": "Police Chief"
+    },
+    {
+      "id": 14,
+      "character":"Jonathan Byers",
+      "name": "Charlie Heaton",
+      "image": "../images/StrangerThingsCharacter_14.png",
+      "alias": "None",
+      "occupation": "Student at Hawkins High School"
+    },
+    {
+      "id": 15,
+      "character":"Mike Wheeler",
+      "name": "Finn Wolfhard",
+      "image": "../images/StrangerThingsCharacter_15.png",
+      "alias": "Dungeon Master",
+      "occupation": "Student at Hawkins Middle School"
+    },
+    {
+      "id": 16,
+      "character":"Scott Clarke",
+      "name": "Randy Havens",
+      "image": "../images/StrangerThingsCharacter_16.png",
+      "alias": "None",
+      "occupation": "Science teacher at Hawkins Middle School"
+    },
+    {
+      "id": 17,
+      "character":"Will Byers",
+      "name": "Noah Schnapp",
+      "image": "../images/StrangerThingsCharacter_17.png",
+      "alias": "Willy the wise",
+      "occupation": "Student at Hawkins Middle School"
+    },
+    {
+      "id": 18,
+      "character":"Ted Wheeler",
+      "name": "Joe Chrest",
+      "image": "../images/StrangerThingsCharacter_18.png",
+      "alias": "None",
+      "occupation": "Unknown"
+    },
+    
+    {
+      "id": 19,
+      "character":"Joyce Byers",
+      "name": "Winona Ryder",
+      "image": "/images/StrangerThingsCharacter_19.png",
+      "alias": "Joy",
+      "occupation": "Sales Person"
+    },
+    {
+      "id": 20,
+      "character":"Terry Ives",
+      "name": "Aimee Mullins",
+      "image": "../images/StrangerThingsCharacter_20.png",
+      "alias": "Mama",
+      "occupation": "Test Subject"
+    }
+  ]
+  
